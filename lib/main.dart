@@ -8,12 +8,6 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  List Listitem = [
-    'jaideep',
-    'Age',
-    'Intrest',
-  ];
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
